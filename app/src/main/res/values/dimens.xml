@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_margin">16dp</dimen>
+    <dimen name="paddingGeneral">4dp</dimen>
+    <dimen name="paddingGeneral10">10dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+    <dimen name="paddigBottonCustom">16dp</dimen>
+    <dimen name="titleName">30dp</dimen>
+    <dimen name="titleName45">45dp</dimen>
+    <dimen name="titleName32">32dp</dimen>
+    <dimen name="titleName28">28dp</dimen>
+    <dimen name="titleName26">26dp</dimen>
+    <dimen name="titleName24">24dp</dimen>
+    <dimen name="titleName20">20dp</dimen>
+    <dimen name="titleName18">18dp</dimen>
+    <dimen name="textField">20dp</dimen>
+    <dimen name="textCommon">16dp</dimen>
+    <dimen name="name_cardview">20dp</dimen>
+    <dimen name="padding_h">8dp</dimen>
+    <dimen name="padding_w">8dp</dimen>
+    <dimen name="padding_hb">16dp</dimen>
+    <dimen name="paddingName60">50dp</dimen>
+    <dimen name="actionBarSize">25dp</dimen>
+    <dimen name="barSize30">30dp</dimen>
+    <dimen name="barSize36">36dp</dimen>
+    <dimen name="barSize50">50dp</dimen>
+    <dimen name="headerBarSize">260dp</dimen>
+    <dimen name="elevationBar">4dp</dimen>
+    <dimen name="layoutFooterImage">70dp</dimen>
+    <dimen name="starSize">50dp</dimen>
+    <dimen name="titleBarName">25sp</dimen>
+
+</resources>
